@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theshivv" alt="theshivv" /></a> </p>
 
-- 🔭 I’m currently improving my **Programming Skills.**
+- 🔭 I’m currently learning **Blockchain**
 
 - 👯 I’ve experience with **React, Android**
 
