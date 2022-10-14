@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **Blockchain**
 
-- 👯 I’ve experience with **React, Android**
+- 👯 I’ve experience in **React, Android**
 
 - 💬 Ask me about **Android Development**
 
